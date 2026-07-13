@@ -33,7 +33,7 @@ EXEMPLO/
     ├── assets/      # Arquivos de mídia (imagens, ícones, logos)
     ├── components/  # Componentes React reutilizáveis
     └── styles/      # Arquivos de estilização e CSS global
-
+```
 ## O que é react?
 O React é uma biblioteca de código aberto utilizada para construir interfaces de usuário dinâmicas e interativas, sendo a escolha ideal para o desenvolvimento de aplicações de página única (SPAs). Sua principal função é permitir a criação de sistemas web extremamente rápidos, onde a página não precisa ser recarregada por inteiro a cada interação; em vez disso, apenas os dados modificados são atualizados na tela de forma instantânea. No nosso projeto, ele funciona em conjunto com o TypeScript, que adiciona tipagem estática ao código para torná-lo mais seguro e evitar erros antes mesmo do código ser executado.
 
