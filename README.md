@@ -11,7 +11,7 @@ No terminal, navegue até a pasta onde deseja salvar o projeto e execute o coman
 
 ```bash
 npm create vite@latest
-
+```
 O terminal vai te guiar por algumas perguntas de configuração. Dê o nome que preferir ao seu projeto, escolha a opção React e, em seguida, TypeScript. Para o restante das perguntas, basta ir apertando Enter para aceitar os padrões.
 
 Depois que terminar, entre na pasta e rode o projeto:
